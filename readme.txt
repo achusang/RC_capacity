@@ -1,4 +1,5 @@
-Radiative_cooling_power_calculation Executable
+RC_Capacity Executable
+Please put the RC_Capacity.exe and Parameter_and_Results.xlsx into the same folder.
 
 1. Prerequisites for Deployment 
 
