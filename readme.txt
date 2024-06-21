@@ -27,3 +27,5 @@ in the MathWorks Documentation Center.
 
 #2 If you wish to customize the parameters:
 Please modify the data in the 'Parameter and Results.xlsx' file, specifically in sheets 1 to 4.
+Then, save and CLOSE the file. (This step is important)
+
