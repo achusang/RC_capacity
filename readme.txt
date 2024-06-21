@@ -1,6 +1,9 @@
 RC_Capacity Executable
-Please put the RC_Capacity.exe and Parameter_and_Results.xlsx into the same folder.
 
+Please place the Parameter_and_Results.xlsx in the ROOT DIRECTORY of the D: drive (NOT C, NOT E, NOT F, BUT D).
+Then double-click to run 'RC_Capacity.exe'.
+
+If you do not have installed MATLAB:
 1. Prerequisites for Deployment 
 
 Verify that version 9.11 (R2021b) of the MATLAB Runtime is installed.   
@@ -20,29 +23,6 @@ from the following link on the MathWorks website:
 For more information about the MATLAB Runtime and the MATLAB Runtime installer, see 
 "Distribute Applications" in the MATLAB Compiler documentation  
 in the MathWorks Documentation Center.
-
-2. Files to Deploy and Package
-
-Files to Package for Standalone 
-================================
--Radiative_cooling_power_calculation.exe
--MCRInstaller.exe 
-    Note: if end users are unable to download the MATLAB Runtime using the
-    instructions in the previous section, include it when building your 
-    component by clicking the "Runtime included in package" link in the
-    Deployment Tool.
--This readme file 
-
-
-
-3. Definitions
-
-For information on deployment terminology, go to
-https://www.mathworks.com/help and select MATLAB Compiler >
-Getting Started > About Application Deployment >
-Deployment Product Terms in the MathWorks Documentation
-Center.
-
 
 
 
