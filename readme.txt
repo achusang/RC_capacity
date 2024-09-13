@@ -2,11 +2,12 @@ RC_Capacity Executable
 
 Please place the 'Parameter_and_Results.xlsx' file in the ROOT DIRECTORY of the D: drive (NOT C, NOT E, NOT F, BUT D).
 Then double-click to run 'RC_Capacity.exe'.
+Then, you can see the calculated results on your screen, and you can find them in the 'Parameter_and_Results.xlsx'. (If not, please check step #1)
 
 #1 If you do not have MATLAB installed:
 Prerequisites for Deployment 
 
-Verify that version 9.11 (R2021b) of the MATLAB Runtime is installed.   
+Verify that 【version 9.11 (R2021b) of the MATLAB】 Runtime is installed.   
 If not, you can run the MATLAB Runtime installer.
 To find its location, enter
   
@@ -14,6 +15,7 @@ To find its location, enter
       
 at the MATLAB prompt.
 NOTE: You will need administrator rights to run the MATLAB Runtime installer. 
+We are sorry that we have not tested any other versions of MATLAB. Therefore, it is better to use [version R2021b]. (lol)
 
 Alternatively, download and install the Windows version of the MATLAB Runtime for R2021b 
 from the following link on the MathWorks website:
@@ -24,11 +26,11 @@ For more information about the MATLAB Runtime and the MATLAB Runtime installer, 
 "Distribute Applications" in the MATLAB Compiler documentation  
 in the MathWorks Documentation Center.
 
-
 #2 If you wish to customize the parameters:
 Please modify the data in the 'Parameter and Results.xlsx' file, specifically in sheets 1 to 4.
 Then, save and CLOSE the file. (This step is important)
 
 #3 If you have any questions or specific customization requests:
-Please contact: chch18511992966@163.com or wangcunhai@ustb.edu.cn
+Please contact: ch18511992966@163.com or wangcunhai@ustb.edu.cn
 
+Enjoy!
